@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    int edad = 27;
+    int edad = 14;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
